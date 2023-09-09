@@ -84,6 +84,10 @@
 }
 
 @media screen and (max-width: 768px) {
+    .about {
+        padding: 2rem 0;
+    }
+
     .grid {
         grid-template-columns: 1fr;
     }
@@ -95,7 +99,7 @@
 
     .about-img img,
     .about-img::after {
-        width: 350px;
+        /* width: 350px; */
         height: 350px;
     }
 

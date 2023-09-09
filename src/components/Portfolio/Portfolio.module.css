@@ -1,5 +1,6 @@
 .portfolio {
     padding: 5rem 0;
+    background-color: var(--bg-light);
 }
 
 .title {

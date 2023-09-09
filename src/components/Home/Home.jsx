@@ -19,7 +19,7 @@ const Home = () => {
         }, 3000);
 
         return () => clearInterval(interval);
-    }, [])
+    },)
 
 
     return (

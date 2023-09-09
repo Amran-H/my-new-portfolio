@@ -6,7 +6,7 @@ import Reveal from '../Reveal/Reveal'
 
 const Portfolio = () => {
     return (
-        <section id='portfolio' className={styles.Portfolio}>
+        <section id='portfolio' className={styles.portfolio}>
             <Reveal>
                 <div className="container">
                     <div className={styles.title}>
